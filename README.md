@@ -4,7 +4,7 @@
 
 💻 Atualmente, estou imersa no universo do JavaScript, explorando suas possibilidades e criando projetos que refletem meu progresso e paixão pela área.
 
-🎓 Em breve, iniciarei minha trajetória acadêmica em tecnologia, o que me empolga a unir teoria e prática para construir uma base sólida de conhecimento.
+🎓 Estudante de Ciências da Computação no IFG, buscando unir teoria e prática para construir uma base sólida de conhecimento.
 
 🔍 Estou aberta a oportunidades de estágio que me permitam colocar em prática o que estou aprendendo e contribuir com um ambiente de trabalho inovador.
 
@@ -20,7 +20,7 @@
 
 💻 Currently, I'm deeply engaged in the world of JavaScript, exploring its capabilities and crafting projects that reflect my progress and passion for the field.
 
-🎓 Soon, I will begin my academic journey in technology, which excites me to merge theory with practice and build a solid foundation of knowledge.
+🎓 Computer Science student at IFG, seeking to combine theory and practice to build a solid foundation of knowledge.
 
 🔍 I am open to internship opportunities that allow me to apply what I'm learning and contribute to an innovative work environment.
 
